@@ -1,0 +1,19 @@
+{
+  "client_id": null,
+  "details": "Input your details here",
+  "state": "Input your state here",
+  "start": null,
+  "large_image": null,
+  "large_text": "Large text here",
+  "small_image": null,
+  "small_text": "Small text here",
+  "party_size": [1, 10],
+  "button_1": {
+    "label": "Button name here",
+    "url": "https://www.google.com"
+  },
+  "button_2": {
+    "label": "Button name here",
+    "url": "https://www.google.com"
+  }
+}
